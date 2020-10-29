@@ -1,1 +1,1 @@
-<img src="/picture1.png" width="100%">
+##  <img src="/picture1.png" width="100%">
