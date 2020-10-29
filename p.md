@@ -23,7 +23,6 @@
 
 
 #  利用Python编写连续信号
-### <img src="/picture2.png" width="100%">
 ### <img src="/picture3.png" width="100%">
 ### <img src="/picture4.png" width="100%">
 ### <img src="/picture5.png" width="100%">
