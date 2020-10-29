@@ -1,5 +1,5 @@
 ###  欢迎来到管利冬的主页
 ##  邮箱：ranzhongsi@foxmail.com
 ##  手机号：17815951125
-
+<a href="/index-en.html">英文版</a>
 
